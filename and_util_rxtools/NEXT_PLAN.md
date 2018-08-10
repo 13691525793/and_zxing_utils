@@ -1,1 +1,0 @@
-#Next plan:    闹钟    通知栏    服务    蓝牙    wifi    NFC
