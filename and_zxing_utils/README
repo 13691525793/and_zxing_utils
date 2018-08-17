@@ -1,0 +1,9 @@
+**特殊处理的工具类**
+
+_本工具类中收藏开发过程中需要特殊处理的工具类，
+普通工具类可以使用以下地址中的工具类_
+ 1. https://github.com/litesuits/android-common
+ 2. https://github.com/Blankj/AndroidUtilCode
+ 
+ **目录**
+ 1. zxing扫码截图恢复彩色和扫码截图裁剪去掉多余的白边部分
